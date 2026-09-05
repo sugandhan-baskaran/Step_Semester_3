@@ -1,4 +1,4 @@
-package main.java.week3.assignment_problems;
+package main.java.week4.assignment_problems;
 
 import java.util.HashMap;
 import java.util.Scanner;

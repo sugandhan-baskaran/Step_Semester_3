@@ -1,4 +1,4 @@
-package main.java.week3.practice_problems;
+package main.java.week4.practice_problems;
 
 import java.util.Arrays;
 import java.util.Scanner;
